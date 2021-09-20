@@ -1,0 +1,15 @@
+{
+  "name": "rxjs-learning",
+  "version": "1.0.0",
+  "description": "rxjs learning",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^7.3.0"
+  },
+  "type": "module"
+}
